@@ -8,7 +8,7 @@ One thing I want to emphasize, for people who don’t like to brag, is – you d
 
 List your major goals here! Sharing your goals with your manager & coworkers is really nice because it helps them see how they can support you in accomplishing those goals!
 
-Goals for next year
+## Goals for next year
 
 If it’s getting towards the end of the year, maybe start writing down what you think your goals for next year might be.
 
