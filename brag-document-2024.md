@@ -19,6 +19,9 @@
   ### Bonus
   * เรียนรู้เกี่ยวกับ functional programing และฝึกใช้มัน
 
+## Conclude for this year:
+
+-
 
 
 ## Goals for next year
