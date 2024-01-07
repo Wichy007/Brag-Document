@@ -10,7 +10,7 @@ List your major goals here! Sharing your goals with your manager & coworkers is 
 
 ## Conclude for this year:
 
-tell me in the pass. You are success follow the goal that you set in the end of the year!
+tell you in the pass. You are success follow the goal that you set in the end of the year!
 
 ## Goals for next year
 
