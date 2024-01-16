@@ -49,6 +49,7 @@
 
   * Functional programinh in python(scala) : 6/1/67
   * Playwright hand on 2 by P chonla : 6/1/67
+  * DDD at sukhothai : 12-13/01/67
 
 ## Blog post
 
